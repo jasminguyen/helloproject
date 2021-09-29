@@ -1,2 +1,3 @@
 #!/usr/bin/env python3
-print("Hallo") 
+
+print("Guten Start ins neue Schuljahr!") 
